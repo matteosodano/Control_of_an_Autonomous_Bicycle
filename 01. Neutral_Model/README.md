@@ -3,10 +3,4 @@ For this model, it is assumed that <img src="https://render.githubusercontent.co
 
 <p align="center"> <img src=""> </p>
 
-The model is unstable and stabilizable with a static state feedback
-
-<p align="center"> <img src=""> </p>
-
-provided that 
-
-<p align="center"> <img src=""> </p>
+The model is unstable and stabilizable with a static state feedback <img src="https://render.githubusercontent.com/render/math?math=\delta = -k \varphi"> provided that <img src="https://render.githubusercontent.com/render/math?math=k > bg/V^2">.
