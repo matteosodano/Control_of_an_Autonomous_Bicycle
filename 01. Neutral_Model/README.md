@@ -9,6 +9,6 @@ leading to the following state-space model
 
 The model is unstable and stabilizable with a static state feedback <img src="https://render.githubusercontent.com/render/math?math=\delta = -k \varphi"> provided that <img src="https://render.githubusercontent.com/render/math?math=k > bg/V^2">.
 
-An example of simulation is shown below, with initial conditions <img src="https://render.githubusercontent.com/render/math?math=\varphi(0) = -\pi/12"> and <img src="https://render.githubusercontent.com/render/math?math=\dot{\varphi}(0) = 0"> rad/s, and with <img src="https://render.githubusercontent.com/render/math?math=k = 0.63"> (red) and <img src="https://render.githubusercontent.com/render/math?math=k = 0.75"> (blue).
+An example of simulation is shown below, with initial conditions <img src="https://render.githubusercontent.com/render/math?math=\varphi(0) = -\pi/12"> rad and <img src="https://render.githubusercontent.com/render/math?math=\dot{\varphi}(0) = 0"> rad/s, and with <img src="https://render.githubusercontent.com/render/math?math=k = 0.63"> (red) and <img src="https://render.githubusercontent.com/render/math?math=k = 0.75"> (blue).
 
 <p align="center"> <img height=300 src=""> </p>
