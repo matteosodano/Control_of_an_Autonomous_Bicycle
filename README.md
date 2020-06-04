@@ -11,13 +11,13 @@ Bicycles offer food for thought in modeling and control, with increasing levels 
 
 The bicycle considered, and the reference frames used, are depicted in the following images:
 
-<p align="center"> <img width=600 src=""> </p>
+<p align="center"> <img width=400 src="https://user-images.githubusercontent.com/62264708/83765443-773e9600-a67b-11ea-86ad-be9a1d24933e.png"> </p>
 
-<p align="center"> <img width=600 src=""> </p>
+<p align="center"> <img width=400 src="https://user-images.githubusercontent.com/62264708/83765449-786fc300-a67b-11ea-9096-e9c512db60e0.png"> </p>
 
 The test bicycle considered in this work is described in the following table:
 
-<p align="center"> <img width=600 src=""> </p>
+<p align="center"> <img width=200 src="https://user-images.githubusercontent.com/62264708/83765529-93dace00-a67b-11ea-81be-a324866e5e52.PNG"> </p>
 
 ## Implementation Details
 The code is written in Matlab R2018b. Simulink is also used. In the scripts `data.m`, the parameters of the biycle and the initial conditions can be changed. The total time of the simulation can be changed in Simulink.
