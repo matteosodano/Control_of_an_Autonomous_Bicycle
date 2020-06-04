@@ -15,7 +15,7 @@ The bicycle considered, and the reference frames used, are depicted in the follo
 
 <p align="center"> <img width=400 src="https://user-images.githubusercontent.com/62264708/83765449-786fc300-a67b-11ea-9096-e9c512db60e0.png"> </p>
 
-The test bicycle considered in this work is described in the following table:
+The test bicycle considered in this work is described in the following table (where the 'r' subscript stands for rider-only):
 
 <p align="center"> <img width=200 src="https://user-images.githubusercontent.com/62264708/83765529-93dace00-a67b-11ea-81be-a324866e5e52.PNG"> </p>
 
