@@ -5,7 +5,7 @@ So far, it has been assumed that the rider is a rigid body sitting on the rear-f
 
 The self-stabilizing model can be augmented as
 
-<p align="center"> <img height=120 src="https://user-images.githubusercontent.com/62264708/83888339-fc907c00-a749-11ea-8d0f-e90ef0664347.PNG"> </p>
+<p align="center"> <img height=110 src="https://user-images.githubusercontent.com/62264708/83888339-fc907c00-a749-11ea-8d0f-e90ef0664347.PNG"> </p>
 
 where the terms with subscript *r* are referred to the driver. The system has now two inputs. Easy computations on the transfer function show that the system is asymptotically stable and with no zeros. In order to minimize the control effort and to annihilate the roll angle as fast as possible, we use an optimal control strategy, namely the optimal output regulation:
 
