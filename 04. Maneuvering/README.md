@@ -3,10 +3,10 @@ Imagine a situation in which the bicycle is driving along a straight path on the
 
 The transfer function from the torque to <img src="https://render.githubusercontent.com/render/math?math=\eta"> is easily found to be
 
-<p align="center"> <img src=""> </p>
+<p align="center"> <img height=150 src="https://user-images.githubusercontent.com/62264708/83885367-8cccc200-a746-11ea-821c-f7f319b0647f.PNG"> </p>
 
 A controller based on the H infinity optimization is used. Results are shown in the following:
 
-<p align="center"> <img src=""> </p>
+<p align="center"> <img width=600 src="https://user-images.githubusercontent.com/62264708/83885365-8c342b80-a746-11ea-9e37-74d94def02d4.png"> </p>
 
 Notice that there is an undershoot along <img src="https://render.githubusercontent.com/render/math?math=\eta">, caused by the non-minimum phase zero of the system. This corresponds to the fact that the rider should first steer and lean in the direction of the car, and then counter-steer to turn away from the obstacle. This inverse response behavior is a common cause of motorcycles accidents.
