@@ -7,9 +7,9 @@ A proportional feedback control law is not able to stabilize the system for any 
 ## b. Front Fork
 The presence of the fork alleviates some control difficulties, in fact the ratio is now 10.56. Again, there exists no static feedback stabilizing the system. Therefore, we handled this problem by means of the H-infinity optimization. Now, the problem is that the steer angle changes value instantaneously, that is not realistic.
 
-<p align="center"> <img width=600 src=""> </p>
+<p align="center"> <img width=600 src="https://user-images.githubusercontent.com/62264708/83896956-37e47800-a755-11ea-95b3-cd3936416d58.png"> </p>
 
 ## c. Rider Lean
 Introducing the rider (i.e., the second input), the system does not have any right half-plane zero, and is controllable and observable. Therefore, we decided to apply the same optimal control strategy discussed in the case of the front-wheel steering bicycle. Paying attention to the choices of the weight matrices in the cost function, it is possible to find a static state feedback control law that minimizes the cost function and asymptotically annihilates the leaning angle, providing acceptable values of the steer angle and the rider leaning angle.
 
-<p align="center"> <img width=600 src=""> </p>
+<p align="center"> <img width=600 src="https://user-images.githubusercontent.com/62264708/83896959-3915a500-a755-11ea-8b16-18fc2081373f.png"> </p>
